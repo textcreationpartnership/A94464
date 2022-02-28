@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the honourable the Commons House of England. The humble petition and representation of the officers and souldiers of the garrisons of Portsmouth, Southsea Castle, Southton, Hurst Castle, Poole and Brownsea Castle, Weymouth, the castles, forts and forces in the Isle of Wight, and the garrison of Malmsbury, together with many thousand publique spirited persons of those places and parts adjacent.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94464</idno>
+            <idno type="STC">Wing T1425A</idno>
+            <idno type="STC">Thomason 669.f.13[71]</idno>
+            <idno type="STC">ESTC R211154</idno>
+            <idno type="EEBO-CITATION">99869887</idno>
+            <idno type="PROQUEST">99869887</idno>
+            <idno type="VID">162967</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94464)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162967)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f13[71])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the honourable the Commons House of England. The humble petition and representation of the officers and souldiers of the garrisons of Portsmouth, Southsea Castle, Southton, Hurst Castle, Poole and Brownsea Castle, Weymouth, the castles, forts and forces in the Isle of Wight, and the garrison of Malmsbury, together with many thousand publique spirited persons of those places and parts adjacent.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A petition with six grievances and their suggested remedies. With 48 signatures -- Cf. Steele.</note>
+                  <note>Annotation on Thomason copy: "Jan. 15th 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Jury --  England --  Early works to 1800.</term>
+               <term>Debts, Public --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:162967:1" rendition="simple:additions"/>
+            <head>To the Honourable the Commons Houſe of <hi>ENGLAND.</hi>
+The humble Petition and Repreſentation of the Officers and Souldiers of the Garriſons of <hi>Portſmouth, Southſea Caſtle, Southton, Hurſt Caſtle, Poole</hi> and <hi>Brownſea Ca<g ref="char:EOLhyphen"/>ſtle, Weymouth,</hi> The Caſtles, Forts and Forces in the <hi>Iſle of Wight,</hi> and the Garriſon of <hi>Malmsbury,</hi> together with many thouſand publique ſpirited perſons of thoſe places and parts adjacent.</head>
+            <opener>SHEWETH,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>HAT as we have with all readineſſe and chearfulneſſe ſerved our Country againſt the Tyrannicall Oppreſſours thereof; So we doe, at preſent, conceive our ſelves in duty obliged to expreſſe the deep ſenſe we ſtill retain of the ſeverall weighty, and inſupportable burdens, which the Oppreſſed Commonalty for a long time have been, and ſtill are groaning under. For the ſpeedy removall whereof, We apply our ſelves to this Honourable Houſe, who undoubtedly ought to relieve the Nation herein, you having now opportunity with power in your hands; God making the Army, and all well-affected people as Wals and Bulwarks to defend you, whileſt you faithfully diſcharge that Truſt committed to you for the benefit of this Nation. And being aſſured, that it is our undoubted right, as Members of the Common-wealth, to repreſent the grievances thereof to you by way of Petition, and to offer ſuch ſutable remedies as we apprehend to be effectuall for their redreſſe; We humbly tender theſe enſuing particulars to your ſerious and ſpeedy conſi<g ref="char:EOLhyphen"/>deration.</p>
+            <p>That Juſtice is not yet executed upon the Grand Delinquents and Authors of our miſeries, bloud-ſhed and calamities, notwithſtanding the many and earneſt Petitions of Well-affected Peo<g ref="char:EOLhyphen"/>ple <note place="margin">Grievance, 1.</note> (as that of <hi>Kent,</hi> and other Counties lately preſented) earneſtly deſiring the ſame.</p>
+            <p>For remedy whereof, we humbly offer, That the King, and all others the Grand Contrivers of, and Actors in the firſt and ſecond warre, may be brought to ſpeedy Triall; As alſo thoſe of your <note place="margin">Remedy.</note> own Houſe that have betrayed their Truſt; and all other Capitall Offendours, without reſpect of perſons; and that Juſtice be executed upon them according to their demerits: Likewiſe that the Prince, Duke, and other Delinquents beyond the Seas, be ſpeedily ſummoned, and a time prefixed for their coming in, that ſo they may receive a due Triall: And in caſe they exceed that time, to be proceeded againſt as enemies to the Common-wealth: And that a day be appointed, within two months, for all Delinquents who are not already diſcovered, to compound; and if they ſhall not compound in that time, then their eſtates to be wholly forfeited and imployed for payment of publique debts.</p>
+            <p>That the intollerable burden of Free Quarter is yet continued upon the people, notwithſtanding the Aſſeſſements are generally paid, although very unequally laid upon many Counties, Diviſi<g ref="char:EOLhyphen"/>ous, <note place="margin">Grievance, 2.</note> Hundreds, Cities, Townes and Villages; the great oppreſſion by Tithes continued; Exciſe moſt unconſcionably exacted from the poore, and no Account publiquely given how the vaſt ſummes received have beene ſpent and imployed.</p>
+            <p>For redreſſe whereof, We propound, 1. That Free Quarter be immediately taken off. 2. Conſtant pay, or Aſſignations; and that the Aſſeſſements, whilſt continued, be more equally propor<g ref="char:EOLhyphen"/>tioned. 3. That Impropriators being firſt ſatisfied, Tithes be taken away. 4. That the Exciſe be taken off from all, except Imported commodities; that no more engagements be laid <note place="margin">Remedy.</note> upon it; and that clipt money be immediately called in. Further that it be declared, that as ſoone as the Engagements already charged, <hi>ut ſupra,</hi> be ſatisfied, it ſhall be wholly taken away. 5. That all new Taxes be aboliſhed, and an equall way of Subſidies onely continued: And that you may be enabled to take away thoſe Taxes, We further offer, That Forreſts lands, the <hi>Whole Revenue</hi> formerly belonging to the Crowne, Biſhops Lands, Deanes and Chapters Lands, Compoſitions of Delinquents, and Sequeſtrations, be ſpeedily improved to the beſt advantage, for the ends afore<g ref="char:EOLhyphen"/>ſaid; And that all who have beene, or now are publique Treaſurers and Collectors of moneys, be forthwith called to an account, <hi>viz.</hi> Exciſe men, Sequeſtrators, Cuſtomers, together with all other Receivers whatſoever; And for that end we deſire, that able Accomptants, Men of known fidelity to the publique Intereſt be imployed for the bringing of the fore-mentioned Treaſurers, &amp;c. to a ſpeedy Account, that ſo the Commons of <hi>England</hi> may know how the vaſt ſummes of money raiſed under pretence of paying ſouldiers, have beene diſpoſed of; by which meanes alſo diſcoveries may be made of great ſummes of money which hitherto hath beene concealed.</p>
+            <p>That by reaſon of the multitude of Officers who depend for maintenance out of the ſeverall receipts, great ſummes of money are devoured, and by meanes thereof, Accounts made difficult. <note place="margin">Grievance, 3.</note>
+            </p>
+            <p>For remedy whereof, We offer, That all publique moneys be brought into one common Treaſury, which wil much leſſen the former charge, that at the end of every ſix months an exact Accompt be publiſhed in print of all thoſe ſummes of money disburſed by the ſaid Treaſurers; which to know, we conceive is of right due to the Commons of <hi>England;</hi> and that for their Further ſatisfaction, all <note place="margin">Remedy.</note> publique disburſments which are of neceſſity, may ſpeedily be computed, and the Receipts proportioned thereunto, with ſome over-plus that may alwaies be in a readineſſe for any publique and ſudden occaſion. <note place="margin">Grievance, 4.</note>
+            </p>
+            <p>That it hath beene, and ſtill is, a great grievance and vexation unto the Officers and Souldiers of the Army, Garriſons, and others our fellow Commoners, who have cauſes extraordinary rela<g ref="char:EOLhyphen"/>ting to, and occaſioned by the late troubles depending before the Committees of your Houſe, and other Committees of the ſeverall Counties; as alſo divers diſ-affected and corrupt Juſtices of the Peace, by whom their perſons have beene ſlighted, their buſineſſe (though never ſo juſt) neglected and protracted, to the great expence of time and money; which hath impoveriſhed ſome, and almoſt deſtroyed others, whilſt enemies to the State, whoſe cauſes have beene unjuſt, doe by their friends, Allies, wealth or potency, ſoone obtaine to be heard and anſwered.</p>
+            <p>For redreſſe whereof we deſire you will appoint Committees of Indempnity in each County, and that all corrupt Members of Committees, and Juſtices may be outed, and ſuch onely choſen and impowered in the Common-wealth, as are of impartiall, upright and judiciall ſpirits, who by their judgements and fidelity, may doe juſtice to the meaneſt, and that ſpeedily without the <note place="margin">Redreſſe.</note> aforeſaid charge and trouble to the Common wealth.</p>
+            <p>That there is by ſad experience found (eſpecially to the poor) a daily decay of Trade (the main pillar of this Common-wealths ſubſiſtence) occaſioned by the continuation of Monopoli<g ref="char:EOLhyphen"/>zing Charters, and aſſociated Companies, who have power to interrupt and deterre all other Natives from the Exerciſe of free Trade and Commerce: and of late alſo in a more ſpeciall manner, <note place="margin">Grievance, 5.</note> the Iriſh Pirats by their increaſe and ſtrength, have made themſelves almoſt Lords of the Narrow Seas, robbing and carrying away Ships and Goods from the mouths of our own Harbours, to the great loſſe and undoing of many.</p>
+            <p>For remedy whereof we humbly deſire, That you will declare that all free Dennizons of this Nation, and Friends to the Weale publike, may enjoy their Rights by imploiment and improve<g ref="char:EOLhyphen"/>ment of their Eſtates and Stocks, without the afore ſaid reſtrictions in free Traffique and Commerce both Forraign and Domeſtique; and that all ſuch monopolizing and encroaching Charters, <note place="margin">Remedy.</note> may be aboliſhed; and that for the better ſuppreſſing all Pirats; and ſecuring of Trade, there may be a ſpeedy and powerfull Guard appointed for the Seas, and entruſted with perſons of approved integrity; moſt part of the Frigots to ſet forth From <hi>Portſmouth,</hi> which we humbly offer as the moſt convenient place upon the Southern Coaſt, for the furthering and advance of that Service: And that for an encouragement of all Sea-men, there may be eſtabliſhed a way of competent ſubſiſtence for thoſe that ſhall loſe their limbes or livelihood in any Service for the Defence of their Countrey, as alſo for the Widdows and Children of ſuch, or any others that ſhall die in the ſaid Service, whereby they may be preſerved from periſhing.</p>
+            <p>That the chargeable proceedings in the Common Law, and all Courts of Judicature (a Grievance of long continuance, and univerſally knowne and felt) are not yet abolliſhed, but the Na<g ref="char:EOLhyphen"/>tives ſtill expoſed to great trouble and vaſt expence, which doe uphold the corrupt intereſt of a Generation of men, who like Locuſts and Caterpillers will (if not timely prevented) devour the <note place="margin">Grievance, 6.</note> Common-wealth.</p>
+            <p>For prevention whereof, we offer, That twelve able and impartiall men, be choſen by the well-affected of each Hundred or Diviſion, any ſeven of them to have Power to hear and determine all differences ariſing within the ſaid Hundred or Diviſion: and that there be every twelve months at the moſt, a new Election, that ſo none of them may continue in that Truſt unleſſe they be <note place="margin">Red.</note> elected thereunto. And alſo that plain and juſt Rules be laid down for them to act by, from which they may be bound by ſome Penalty not to recede. And for the better Security and main<g ref="char:EOLhyphen"/>tenance of the Premiſſes, its humbly deſired, that the Lord <hi>FAIRFAX</hi> may be appointed by this Houſe to grant Commiſſions to ſuch perſons as are of approved fidelity to the publike In<g ref="char:EOLhyphen"/>tereſt, for the well ordering and diſpoſing of the Militia.</p>
+            <p>Theſe things we doe with all clearneſſe and faithfulneſſe offer to your ſpeedy Conſideration, as that which we conceive for the ſubſtance of it) will tend to a ſettlement of this Nation, together with the particulars (not here expreſſed) contained in the late Remonſtrance of the Army, and Petition of the 11th of <hi>September</hi> laſt, which if inſiſted on, and vigorouſly proſecuted (not anſwered with a formall complement, as hath been uſuall, but really accompliſhed) will be a happy beginning of the eſtabliſhment of the Peoples Freedoms; but if the preſent happy opportu<g ref="char:EOLhyphen"/>nity in your hands, ſhall be neglected, we are like to be (if God prevent it not) compleatly miſerable, and ſhall become the ſcorn of all Nations, and a ſhame to poſterity, having ſo freely ſpent our Bloud and Treaſure, to purchaſe Juſtice and Freedome, and in ſtead thereof be reduced to a worſe condition of oppreſſion and ſlavery then formerly.</p>
+            <p>Wherefore as a Teſtimony of that affection and duty we bear to our Native Countrey, we leave theſe things before you, hoping that God may yet uſe you as Inſtruments to eaſe this oppreſſed Na<g ref="char:EOLhyphen"/>tion, however we are confident he will open a way for the People, to obtain theſe and all other their juſt Rights and Liberties by overthrowing all unrighteous powers whatſoever.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <head>Iſle of Wight.</head>
+                     <item>Thomas Bowreman.</item>
+                     <item>Edm. Rolph.</item>
+                     <item>George Elſmore.</item>
+                     <item>John Basket.</item>
+                     <item>Richard Tonſon.</item>
+                     <item>Hen. Duck.</item>
+                     <item>Richard Colman.</item>
+                     <item>John Fox.</item>
+                     <item>Henry Harwell.</item>
+                     <item>Thomas Bo<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>les.</item>
+                     <item>Tho. Ward.</item>
+                     <item>Steven Burton.</item>
+                     <item>Ed. Templer.</item>
+                  </list>
+                  <list>
+                     <head>Portſmouth &amp; Southſea-Caſt.</head>
+                     <item>Ro. Saunders.</item>
+                     <item>George Joyce.</item>
+                     <item>John Pitſon.</item>
+                     <item>Rob. Peacock.</item>
+                     <item>Tho. Mathews.</item>
+                     <item>Jo. Tarant.</item>
+                     <item>Edw. Hopgood.</item>
+                     <item>Abraham Peters</item>
+                     <item>Tho. Hurſt.</item>
+                     <item>Ro. Durnford.</item>
+                     <item>Ro. Weſton.</item>
+                     <item>William Bell.</item>
+                     <item>Rich. Prat.</item>
+                  </list>
+                  <list>
+                     <head>Southton.</head>
+                     <item>Peter Murford.</item>
+                     <item>George Embry.</item>
+                     <item>Io. Durnford.</item>
+                     <item>Io. Hubblethorn.</item>
+                     <item>George Burton.</item>
+                     <item>Iohn Barton.</item>
+                     <item>Will. Cole jun.</item>
+                  </list>
+                  <list>
+                     <head>Pool and Hurſt.</head>
+                     <item>Tho. Eyers.</item>
+                     <item>J. Rede.</item>
+                     <item>Ed. Snering.</item>
+                     <item>Ed. Taylor.</item>
+                     <item>Fran. Chick.</item>
+                     <item>Lieut. Wanſey.</item>
+                     <item>Hen. Eaſman.</item>
+                     <item>Hum. Walle.</item>
+                  </list>
+                  <list>
+                     <head>Weymouth and Malmsbury.</head>
+                     <item>Iam. Hayns.</item>
+                     <item>William Harden.</item>
+                     <item>Nat. Chaſe.</item>
+                     <item>Rich. Clun.</item>
+                     <item>Ralph Carde.</item>
+                     <item>Tho. Loving.</item>
+                     <item>Fran. Stokes.</item>
+                  </list>
+               </signed>
+Theſe our Subſcriptions, are in the Name and behalf of thoſe under our Commands, together with our Neighbours and fellow Commoners, being intruſted and impowered to agitate in their behalf, for the Redemption of our Native Rights and Freedoms.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
